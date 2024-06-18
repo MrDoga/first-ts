@@ -1,6 +1,13 @@
 "use strict";
 console.log('Welcome');
-const sum = (first, second) => {
+const getSum = (first, second) => {
     return `Your sum of two numbers are ${first + second}`;
 };
-console.log(sum(1, 2));
+const getDifference = (first, second) => {
+    const difference = first - second;
+    if (difference < 0)
+        return `Result is below 0`;
+    return `Your sum of two numbers are ${difference}`;
+};
+console.log(getSum(10, 2));
+console.log(getDifference(10, 3));
