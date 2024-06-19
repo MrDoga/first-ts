@@ -1,7 +1,8 @@
 "use strict";
 console.log('Welcome');
 const getSum = (first, second) => {
-    return `Your sum of two numbers are ${first + second}`;
+    // return `Your sum of two numbers are ${first + second}`;
+    return first + second;
 };
 const getDifference = (first, second) => {
     const difference = first - second;

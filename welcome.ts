@@ -1,7 +1,8 @@
 console.log('Welcome')
 
 const getSum = (first: number, second: number) => {
-    return `Your sum of two numbers are ${first + second}`;
+    // return `Your sum of two numbers are ${first + second}`;
+    return first + second
 }
 
 const getDifference = (first: number, second: number) => {
