@@ -11,6 +11,9 @@ const getDifference = (first: number, second: number) => {
     return `Your sum of two numbers are ${difference}`;
 }
 
+const test = () => {
+    
+}
 
 console.log(getSum(10,2))
 console.log(getDifference(10,3));

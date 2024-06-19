@@ -10,5 +10,7 @@ const getDifference = (first, second) => {
         return `Result is below 0`;
     return `Your sum of two numbers are ${difference}`;
 };
+const test = () => {
+};
 console.log(getSum(10, 2));
 console.log(getDifference(10, 3));
