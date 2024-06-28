@@ -12,7 +12,11 @@ const getDifference = (first: number, second: number) => {
 }
 
 const test = () => {
-    "a"
+    "waa"
+}
+
+const experimentalFunction() => {
+	console.log('this is experimental feature')
 }
 
 console.log(getSum(10,2))
