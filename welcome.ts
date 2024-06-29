@@ -12,7 +12,7 @@ const getDifference = (first: number, second: number) => {
 }
 
 const test = () => {
-    "a"
+    "a" 
 }
 
 console.log(getSum(10,2))
