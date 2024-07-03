@@ -12,7 +12,11 @@ const getDifference = (first: number, second: number) => {
 }
 
 const test = () => {
-    "a"
+    "a" 
+}
+
+const featureTwo = () =>{
+    //Enter code here for division
 }
 
 console.log(getSum(10,2))
