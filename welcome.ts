@@ -19,5 +19,9 @@ const featureTwo = () =>{
     //Enter code here for division
 }
 
+const multiplication = () => {
+    //Enter code here for multiplication
+}
+
 console.log(getSum(10,2))
 console.log(getDifference(10,3));
