@@ -15,7 +15,7 @@ const test = () => {
     "waa"
 }
 
-const experimentalFunction() => {
+const experimentalFunction =() => {
 	console.log('this is experimental feature')
 }
 
