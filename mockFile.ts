@@ -1,1 +1,1 @@
-This is a mock file for testing diff --cached command
+// This is a mock file for testing diff --cached command
